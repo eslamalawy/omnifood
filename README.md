@@ -28,13 +28,13 @@ To run the project locally:
 
    ```bash
    git clone https://github.com/eslamalawy/omnifood.git
-  ```
+  ```  
 
 2. **Navigate to the project directory:**
 
    ```bash
    cd omnifood
-   ```
+   ```  
 
 3. **Open `index.html` in your preferred web browser.**
 
